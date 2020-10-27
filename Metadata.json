@@ -1,0 +1,20 @@
+{
+    "Author": "Jayendran arumugam",
+    "ContentSize": 1882,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/stop-or-start-all-webapps-in-your-resource-groups-(new-azurerm)/master/START_STOP_APP_SERVICE_BY_RESOURCE.ps1",
+    "DownloadCount": 1862,
+    "Id": "Stop-or-Start-all-WebApps-9b32ca91",
+    "IsFederated": false,
+    "IsWorkflow": true,
+    "Popularity": 276,
+    "RaterCount": 1,
+    "Rating": 5.0,
+    "ReleaseDate": "2018-1-24T00:00:00",
+    "RunbookKind": 6,
+    "RunbookKindString": "PowerShell Workflow",
+    "Summary": "This Powershell runbook will start/stop all the APP Services in a resource group.",
+    "Title": "Stop or Start all WebApps in your Resource groups (New AzureRM)",
+    "UpdatedDate": "2018-1-24T00:00:00",
+    "Url": "https://github.com/azureautomation/stop-or-start-all-webapps-in-your-resource-groups-(new-azurerm)",
+    "UserTags": "Azure Automation, Azure Runbooks, PowerShell Workflow Runbook"
+}
